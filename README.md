@@ -30,5 +30,3 @@ Project structure based on [gulp-angular yeoman generator](https://github.com/Sw
 If you have any questions about the build or project structure please check out their documentation.
 
 UI components built with [Angular Material](https://material.angularjs.org/).
-
-By Saran Singh Ahluwalia
